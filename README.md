@@ -94,14 +94,15 @@ I'm a data analyst with a BCS-accredited diploma, trained in the full data pipel
   </thead>
   <tbody>
     <tr>
-      <td><strong>[Project Title 1]</strong></td>
-      <td>Brief description of what the analysis covers and the key insight found.</td>
-      <td><a href="#">Repo</a> · <a href="#">Notebook</a></td>
+      <td><strong>Gender/Sex distribution in industries in the Fife area</strong></td>
+      <td>Jupyter notebook. An investigation into which industries would the best targets for female focused employee life improvement services. Scottish census data was used and the most populated industry for female workers by far is 'Human Health and Social Work Activities'.
+</td>
+      <td><a href="https://github.com/ruvans/ac_industry_research">Repo</a> · <a href="https://github.com/ruvans/ac_industry_research/blob/main/women-in-local-industries.ipynb">Notebook</a></td>
     </tr>
     <tr>
-      <td><strong>[Project Title 2]</strong></td>
-      <td>Brief description of what the analysis covers and the key insight found.</td>
-      <td><a href="#">Repo</a> · <a href="#">Notebook</a></td>
+      <td><strong>Your lunchbox treat is oil</strong></td>
+      <td>Tableau dashboard. An investigation into palm oil in chocolate bars and how almost a quarter cannot legally be called chocolate.</td>
+      <td><a href="https://public.tableau.com/app/profile/ruth.evans2685/viz/Yourlunchboxtreatisoil/Dashboard12">Dashboard</a></td>
     </tr>
     <tr>
       <td><strong>[Project Title 3]</strong></td>

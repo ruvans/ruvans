@@ -97,31 +97,31 @@ I'm a data analyst with a BCS-accredited diploma, trained in the full data pipel
       <td><strong>Gender/Sex distribution in industries in the Fife area</strong></td>
       <td>Jupyter notebook. An investigation into which industries would the best targets for female focused employee life improvement services. Scottish census data was used and the most populated industry for female workers by far is 'Human Health and Social Work Activities'.
 </td>
-      <td><a href="https://github.com/ruvans/ac_industry_research">Repo</a> · <a href="https://github.com/ruvans/ac_industry_research/blob/main/women-in-local-industries.ipynb">Notebook</a></td>
+      <td><a href="https://github.com/ruvans/ac_industry_research">Repo</a> · <a href="https://github.com/ruvans/ac_industry_research/blob/main/women-in-local-industries.ipynb" target="_blank">Notebook</a></td>
     </tr>
     <tr>
       <td><strong>Your lunchbox treat is oil</strong></td>
-      <td>Tableau dashboard. An investigation into palm oil in chocolate bars and how almost a quarter cannot legally be called chocolate.</td>
-      <td><a href="https://public.tableau.com/app/profile/ruth.evans2685/viz/Yourlunchboxtreatisoil/Dashboard12">Dashboard</a></td>
+      <td>Tableau dashboard. An investigation into palm oil in chocolate bars and how almost one in four cannot legally be called a chocolate bar.</td>
+      <td><a href="https://public.tableau.com/app/profile/ruth.evans2685/viz/Yourlunchboxtreatisoil/Dashboard12" target="_blank">Dashboard</a></td>
     </tr>
     <tr>
-      <td><strong>[Project Title 3]</strong></td>
-      <td>Brief description of what the analysis covers and the key insight found.</td>
-      <td><a href="#">Repo</a> · <a href="#">Notebook</a></td>
+      <td><strong>UK energy prices</strong></td>
+      <td>A look at the prices of UK energy over the years and which global events had the biggest impacts. We found that the cost of living may have been much worse if it wasn't for the global pandemic bringing down energy costs war in Europe began.</td>
+      <td><a href="https://github.com/ruvans/uk-energy-notebook" target="_blank">Repo</a> · <a href="#">Notebook</a></td>
     </tr>
   </tbody>
 </table>
 <h2>GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ruvans&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruvans&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 <h2>Connect With Me</h2>
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="www.linkedin.com/in/ruth-evans" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:ruthevans@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>

@@ -107,7 +107,7 @@ I'm a data analyst with a BCS-accredited diploma, trained in the full data pipel
     <tr>
       <td><strong>UK energy prices</strong></td>
       <td>A look at the prices of UK energy over the years and which global events had the biggest impacts. We found that the cost of living may have been much worse if it wasn't for the global pandemic bringing down energy costs war in Europe began.</td>
-      <td><a href="https://github.com/ruvans/uk-energy-notebook" target="_blank">Repo</a> · <a href="#">Notebook</a></td>
+      <td><a href="https://github.com/ruvans/uk-energy-notebook" target="_blank">Repo</a> · <a href="https://github.com/ruvans/uk-energy-notebook/blob/main/energy-prices.ipynb">Notebook</a></td>
     </tr>
   </tbody>
 </table>

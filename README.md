@@ -20,6 +20,9 @@ I'm a data analyst with a BCS-accredited diploma, trained in the full data pipel
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/VBA-11557C?style=for-the-badge" alt="visual basic applications">
+  <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C plus plus">
+
 </p>
 <h3>Python Libraries</h3>
 <p align="left">
@@ -29,6 +32,7 @@ I'm a data analyst with a BCS-accredited diploma, trained in the full data pipel
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" alt="Seaborn"/>
   <img src="https://img.shields.io/badge/SciPy-8FAEE7?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="qt" >
 </p>
 <h3>BI & Visualisation</h3>
 <p align="left">
@@ -40,6 +44,7 @@ I'm a data analyst with a BCS-accredited diploma, trained in the full data pipel
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/ClearCase-08A3C7?style=for-the-badge" alt="IBM clear case">
 </p>
 <h2>Skills at a Glance</h2>
 <table>
@@ -65,10 +70,6 @@ I'm a data analyst with a BCS-accredited diploma, trained in the full data pipel
     <tr>
       <td><strong>Statistics</strong></td>
       <td>Descriptive stats, hypothesis testing, confidence intervals, time series</td>
-    </tr>
-    <tr>
-      <td><strong>Machine learning</strong></td>
-      <td>Supervised & unsupervised models; evaluation metrics; intro to neural networks</td>
     </tr>
     <tr>
       <td><strong>Communication</strong></td>
